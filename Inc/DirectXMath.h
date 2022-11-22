@@ -2278,3 +2278,4 @@ namespace DirectX
 
 } // namespace DirectX
 
+#include "unsal.h"
